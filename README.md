@@ -1,7 +1,7 @@
 # Apple Page
 ## Projeto Simples da Página da Apple
 <p>Este projeto foi criado como parte do intensivão oferecido pela <a href='https://www.hashtagtreinamentos.com/' target='_blank'>Hashtag Treinamentos</a>, com o objetivo de conhecer comandos básicos de JavaScript.</p>
-<img src='page.jpg' width='100%'>
+<img src='page.png' width='100%'>
 
 
 ## Como Utilizar
